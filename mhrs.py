@@ -387,7 +387,7 @@ async def randevu_al(slot, token, username, context=None, user_id=None):
     return False
 
 def main():
-    app = ApplicationBuilder().token("8035914033:AAHXKyMY7q8sYz7I9uT0zXlAfCe60DsoCs0").build()
+    app = ApplicationBuilder().token("TOKENINI_BURAYA_YAZ").build()
 
     conv_handler = ConversationHandler(
         entry_points=[CommandHandler("start", start)],
