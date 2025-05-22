@@ -25,7 +25,7 @@ Telegram üzerinden MHRS tokenınızı girerek istediğiniz klinik ve tarih aral
 
 ## Kurulum
 
-1. Python yüklü değilse [python.org](https://www.python.org/downloads/) adresinden indirip kurun.  
+1. Python yüklü değilse [python.org](https://www.python.org/downloads/) (3.10 tavsiye edilir) adresinden indirip kurun.  
 2. Terminal veya komut istemcisine aşağıdaki komutu girerek gerekli kütüphaneleri yükleyin:
 
 ```bash
